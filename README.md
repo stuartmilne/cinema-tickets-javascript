@@ -1,7 +1,7 @@
 # cinema-tickets-javascript
 cinema-tickets-javascript
 
-Clone this directory
+Clone this repo
 
 cd into cinema-tickets-javascript
 run npm i
